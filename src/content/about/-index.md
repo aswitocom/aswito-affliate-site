@@ -1,5 +1,6 @@
 ---
-title: "I’m John Doe, A content writer based in LDN, Currently at Bookworm"
+title: "This is Aswito Creators, Content writers based all over with wide
+  knowledge that will help you if you're up to the challenge."
 meta_title: "About"
 image: "/images/author.png"
 draft: false
@@ -18,3 +19,5 @@ what_i_do:
         purus eget ipsum venenatis.
 ---
 This took all the time to write about resources that will help you earn something small. To is no get rich stuff but we want to tell you that also you can be a creator now that we have all the power in our hands.
+
+All the resources and articles aim to help you navigate and start on speed.
