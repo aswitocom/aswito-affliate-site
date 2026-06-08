@@ -1,6 +1,5 @@
 ---
-title: "This is Aswito Creators, Content writers based all over with wide
-  knowledge that will help you if you're up to the challenge."
+title: "This is Aswito Creators, We're here to help."
 meta_title: "About"
 image: "/images/author.png"
 draft: false
