@@ -1,14 +1,14 @@
 {
   "site": {
-    "title": "Bookworm Light Astro | Blog Template",
-    "base_url": "https://bookworm-light-astro.vercel.app",
+    "title": "Aswito Affiliates & Referrals Guides",
+    "base_url": "https://aswitoaffliates.netlify.app",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
+    "favicon": "/images/aswito-favicon.svg",
+    "logo": "/images/aswito-affiliates-logo.svg",
     "logo_width": "200",
     "logo_height": "34",
-    "logo_text": "Bookworm Light"
+    "logo_text": "Aswito Affiliates"
   },
 
   "settings": {
@@ -16,24 +16,24 @@
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
+    "meta_author": "Aswito Affiliates",
     "meta_image": "/images/og-image.png",
-    "meta_description": "Bookworm Light Astro Blog Template"
+    "meta_description": "Affiliate marketing guides, referral strategies, and passive income tips."
   },
 
   "google_tag_manager": {
     "enable": true,
-    "gtm_id": "GTM-XXXXXX"
+    "gtm_id": "GTM-NB52VTFD"
   },
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Copyright © 2026 a theme by [Themefisher](https://themefisher.com)"
+    "copyright": "Copyright © 2026 [Aswito Affliates](https://aswitoaffliates.netlify.app/)"
   },
 
   "contactinfo": {
-    "address": "355 S Grand Ave <br/> Los Angeles, CA 90071",
-    "email": "info@bookworm.org",
-    "phone": "+800 567 1234"
+    "address": "P.O Box -4 - 80403  <br/> Kwale Town, Kwale County",
+    "email": "aswitocom@gmail.com",
+    "phone": "+254 0704224141"
   }
 }

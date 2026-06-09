@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="#0f172a"/>
+
+  <!-- Subtle grid pattern -->
+  <defs>
+    <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M 60 0 L 0 0 0 60" fill="none" stroke="#1e293b" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="url(#grid)"/>
+
+  <!-- Accent glow blobs (flat circles, no gradients) -->
+  <circle cx="100" cy="100" r="260" fill="#ef4444" opacity="0.07"/>
+  <circle cx="1100" cy="530" r="280" fill="#3b82f6" opacity="0.08"/>
+  <circle cx="600" cy="630" r="300" fill="#fbbf24" opacity="0.05"/>
+
+  <!-- ── MAGNET MASCOT (centered-left, large) ── -->
+  <!-- Scale up ~3.5x from original 32px favicon version, centered at x=220 y=280 -->
+
+  <!-- Magnet arch outer -->
+  <path d="M120 310 Q120 170 222 170 Q324 170 324 310" stroke="#1e293b" stroke-width="56" stroke-linecap="butt" fill="none"/>
+  <!-- Magnet arch dark fill -->
+  <path d="M120 310 Q120 170 222 170 Q324 170 324 310" stroke="#334155" stroke-width="56" stroke-linecap="butt" fill="none"/>
+  <!-- Magnet arch highlight rim -->
+  <path d="M126 310 Q126 178 222 178 Q318 178 318 310" stroke="#475569" stroke-width="40" stroke-linecap="butt" fill="none"/>
+  <!-- Inner cutout -->
+  <path d="M142 310 Q142 196 222 196 Q302 196 302 310" stroke="#0f172a" stroke-width="16" stroke-linecap="butt" fill="none"/>
+
+  <!-- Left arm — red pole -->
+  <rect x="120" y="300" width="54" height="110" rx="8" fill="#ef4444"/>
+  <rect x="120" y="300" width="54" height="30" rx="4" fill="#dc2626"/>
+
+  <!-- Right arm — blue pole -->
+  <rect x="270" y="300" width="54" height="110" rx="8" fill="#3b82f6"/>
+  <rect x="270" y="300" width="54" height="30" rx="4" fill="#2563eb"/>
+
+  <!-- Eyes -->
+  <circle cx="196" cy="224" r="22" fill="white"/>
+  <circle cx="248" cy="224" r="22" fill="white"/>
+  <circle cx="200" cy="228" r="12" fill="#0f172a"/>
+  <circle cx="252" cy="228" r="12" fill="#0f172a"/>
+  <circle cx="206" cy="222" r="5" fill="white"/>
+  <circle cx="258" cy="222" r="5" fill="white"/>
+
+  <!-- Smile -->
+  <path d="M200 256 Q222 278 244 256" stroke="#f97316" stroke-width="5" stroke-linecap="round" fill="none"/>
+
+  <!-- Left sparks + coins -->
+  <line x1="68" y1="230" x2="116" y2="246" stroke="#fbbf24" stroke-width="4" stroke-linecap="round"/>
+  <line x1="60" y1="278" x2="116" y2="278" stroke="#fbbf24" stroke-width="4" stroke-linecap="round"/>
+  <line x1="68" y1="324" x2="116" y2="308" stroke="#fbbf24" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="52" cy="226" r="14" fill="#fbbf24"/>
+  <circle cx="44" cy="276" r="14" fill="#fbbf24"/>
+  <circle cx="52" cy="326" r="14" fill="#fbbf24"/>
+  <text x="52" y="231" font-family="Arial" font-size="14" font-weight="900" fill="#92400e" text-anchor="middle">$</text>
+  <text x="44" y="281" font-family="Arial" font-size="14" font-weight="900" fill="#92400e" text-anchor="middle">$</text>
+  <text x="52" y="331" font-family="Arial" font-size="14" font-weight="900" fill="#92400e" text-anchor="middle">$</text>
+
+  <!-- Right sparks + coins -->
+  <line x1="328" y1="236" x2="374" y2="222" stroke="#fbbf24" stroke-width="4" stroke-linecap="round"/>
+  <line x1="328" y1="278" x2="376" y2="278" stroke="#fbbf24" stroke-width="4" stroke-linecap="round"/>
+  <line x1="328" y1="318" x2="374" y2="332" stroke="#fbbf24" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="388" cy="218" r="14" fill="#fbbf24"/>
+  <circle cx="390" cy="276" r="14" fill="#fbbf24"/>
+  <circle cx="388" cy="334" r="14" fill="#fbbf24"/>
+  <text x="388" y="223" font-family="Arial" font-size="14" font-weight="900" fill="#92400e" text-anchor="middle">$</text>
+  <text x="390" y="281" font-family="Arial" font-size="14" font-weight="900" fill="#92400e" text-anchor="middle">$</text>
+  <text x="388" y="339" font-family="Arial" font-size="14" font-weight="900" fill="#92400e" text-anchor="middle">$</text>
+
+  <!-- ── WORDMARK ── -->
+  <text
+    x="460"
+    y="290"
+    font-family="'Helvetica Neue', Arial, sans-serif"
+    font-size="96"
+    font-weight="800"
+    letter-spacing="-2"
+    fill="white"
+  >Aswito</text>
+
+  <text
+    x="460"
+    y="390"
+    font-family="'Helvetica Neue', Arial, sans-serif"
+    font-size="96"
+    font-weight="800"
+    letter-spacing="-2"
+    fill="#ef4444"
+  >Affiliates</text>
+
+  <!-- Divider line -->
+  <rect x="460" y="412" width="680" height="3" rx="2" fill="#334155"/>
+
+  <!-- Tagline -->
+  <text
+    x="460"
+    y="458"
+    font-family="'Helvetica Neue', Arial, sans-serif"
+    font-size="28"
+    font-weight="400"
+    letter-spacing="1"
+    fill="#94a3b8"
+  >Affiliate marketing guides · referral strategies · passive income</text>
+
+  <!-- URL badge -->
+  <rect x="460" y="490" width="310" height="46" rx="23" fill="#1e293b"/>
+  <text
+    x="615"
+    y="519"
+    font-family="'Helvetica Neue', Arial, sans-serif"
+    font-size="22"
+    font-weight="500"
+    fill="#64748b"
+    text-anchor="middle"
+  >aswitoaffiliates.com</text>
+
+</svg>

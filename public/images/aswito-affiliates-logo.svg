@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 110" width="580" height="110">
+
+  <!-- Magnet body arms -->
+  <rect x="18" y="30" width="22" height="38" rx="4" fill="#ef4444"/>
+  <rect x="66" y="30" width="22" height="38" rx="4" fill="#3b82f6"/>
+
+  <!-- Magnet arch outer -->
+  <path d="M18 46 Q18 6 77 6 Q108 6 108 46" stroke="#1e293b" stroke-width="22" stroke-linecap="butt" fill="none"/>
+  <!-- Magnet arch inner cutout -->
+  <path d="M25 46 Q25 16 77 16 Q100 16 100 46" stroke="white" stroke-width="8" stroke-linecap="butt" fill="none"/>
+
+  <!-- Eyes on arch -->
+  <circle cx="60" cy="29" r="5.5" fill="white"/>
+  <circle cx="78" cy="29" r="5.5" fill="white"/>
+  <circle cx="61" cy="30" r="3" fill="#1e293b"/>
+  <circle cx="79" cy="30" r="3" fill="#1e293b"/>
+  <circle cx="62.5" cy="28.5" r="1.2" fill="white"/>
+  <circle cx="80.5" cy="28.5" r="1.2" fill="white"/>
+
+  <!-- Smile -->
+  <path d="M63 40 Q69 47 76 40" stroke="#f97316" stroke-width="2.2" stroke-linecap="round" fill="none"/>
+
+  <!-- Left attraction sparks -->
+  <line x1="4" y1="36" x2="15" y2="41" stroke="#fbbf24" stroke-width="2" stroke-linecap="round"/>
+  <line x1="2" y1="52" x2="15" y2="52" stroke="#fbbf24" stroke-width="2" stroke-linecap="round"/>
+  <line x1="5" y1="66" x2="16" y2="62" stroke="#fbbf24" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="2" cy="35" r="4" fill="#fbbf24"/>
+  <circle cx="0" cy="51" r="4" fill="#fbbf24"/>
+  <circle cx="3" cy="67" r="4" fill="#fbbf24"/>
+
+  <!-- Right attraction sparks -->
+  <line x1="108" y1="38" x2="119" y2="34" stroke="#fbbf24" stroke-width="2" stroke-linecap="round"/>
+  <line x1="109" y1="52" x2="121" y2="52" stroke="#fbbf24" stroke-width="2" stroke-linecap="round"/>
+  <line x1="108" y1="65" x2="119" y2="68" stroke="#fbbf24" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="121" cy="33" r="4" fill="#fbbf24"/>
+  <circle cx="123" cy="51" r="4" fill="#fbbf24"/>
+  <circle cx="121" cy="69" r="4" fill="#fbbf24"/>
+
+  <!-- Wordmark: Aswito Affiliates -->
+  <text
+    x="150"
+    y="70"
+    font-family="'Helvetica Neue', Arial, sans-serif"
+    font-size="50"
+    font-weight="800"
+    letter-spacing="-1.5"
+    fill="#0f172a"
+  >Aswito Affiliates</text>
+
+</svg>
