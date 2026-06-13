@@ -21,7 +21,7 @@ Nowdays most users use smartphones compared to other devices. On mobile, users a
 On the top right corner is the search icon. The search icon is used to search for published posts in this website. Posts can be a how to guide, a random blog rant and anything else.
 
 <!-- Image illustration -->
-![image](/public/images/posts/mobile-search-and-hamburger.png)
+![image](/images/posts/mobile-search-and-hamburger.png)
 
 In the image illustration, the blue arrow points to the search icon and the red arrow points to the hamburger menu. Clicking on menu shows the contents in a dropdown menu in the website.
 
