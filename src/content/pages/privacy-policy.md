@@ -1,30 +1,26 @@
 ---
-title: "Privacy"
+title: "Privacy Policy"
 meta_title: ""
-description: "this is meta description"
+description: "Pricacy terms & conditions."
 draft: false
 ---
 
-#### Responsibility of Contributors
+#### Responsibility of Authors
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+All authors are obligated to publish truth information. Before publishing an article try it and make sure it works before publishing. In an event where a guide does not work as it is outlined it may be outdated information but we try so hard to keep our articles up to date. Also reach us through our communication channels for an update so that we can help or update the guide.
 
 #### Gathering of Personal Information
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+Gathering your information is not our priority. You as a user should not be worried as far as we're concerned we are trying to get something small for ourselves too.
 
 #### Protection of Personal- Information
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus.
-
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat
+If you use our service we need you in the future so it's our interest also to protect you browse the blog with confidence no one's here to harm you. This ain't a ponzi scheme.
 
 #### Privacy Policy Changes
 
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but limited to, email addresses, telephone numbers
-4. Any Update come in The technology Customer will get automatic Notification.
+1. When you contact us we won't keep your data no matter what.
+2. We mostly communicate through our social media channels be it whatsapp, facebook, telegram to give important announcements.
+3. If anything is about to change we'll communicate in advance.
+4. We use only private channels when it comes to personal coaching and in that event the user must be the one may have reached to us personally.
+5. We wont text you first!

@@ -4,9 +4,11 @@ meta_title: ""
 image: /images/authors/julius-ouko.jpg
 description: It was just a dream
 social:
-  facebook: https://www.facebook.com/johndoe
-  x: https://www.x.com/johndoe
-  linkedin: https://www.linkedin.com/johndoe
+  facebook: https://www.facebook.com/profile.php?id=61588553906038
+  x: https://x.com/juliusnouko
+  linkedin: https://www.linkedin.com/in/julius-ouko-0b3b372b5/
 ---
 
-This is Julius Ouko a doyen on many topics on the internet, be it content writing, programming in a couple of languages, configuring software and many more. Check social links for more info.
+Julius Ouko is a doyen on many topics on the internet, perfect example is this website, meme and humor creation, programmes in (Rust, JavaScript and Python), configuring software and many more. 
+
+You viewed my profile, follow me  fam 😂.

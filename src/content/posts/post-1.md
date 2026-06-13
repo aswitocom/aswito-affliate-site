@@ -1,23 +1,50 @@
 ---
-title: "How to make toys from old Olarpaper"
+title: "Guide on using this blog"
 meta_title: ""
 description: "meta description"
-date: 2025-04-01T05:00:00Z
-image: "/images/posts/01.jpg"
-categories: ["art"]
-authors: ["Mark Dinn"]
-tags: ["diy", "toy"]
+date: 2026-06-13T05:00:00Z
+image: "/images/posts/guide.png"
+categories: ["Guides"]
+authors: ["Julius Ouko"]
+tags: ["first", "this blog"]
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+This guide is your map on how to use this blog. Chances are when you read it the first time you don't need to again in the future.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+On a glance all the features of the blog are readily seen, by clicking on a link you're taken to target page.
 
-## Creative Design
+## On mobile
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+Nowdays most users use smartphones compared to other devices. On mobile, users are welcomed with the hero which will in most cases have an article or a banner image showing an advert.
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+On the top right corner is the search icon. The search icon is used to search for published posts in this website. Posts can be a how to guide, a random blog rant and anything else.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+<!-- Image illustration -->
+![image](/public/images/posts/mobile-search-and-hamburger.png)
+
+In the image illustration, the blue arrow points to the search icon and the red arrow points to the hamburger menu. Clicking on menu shows the contents in a dropdown menu in the website.
+
+Note that interacting with this blog on a desktop or larger screen devices is similar to mobile only the navbar layout changes.
+
+## Navigation
+[Home](/) takes you to the main page of this blog. Here is where recent published articles are displayed by default.
+
+[About](/about) section talks about the reason behind establishment of this blog. It also talks what else Aswito Affiliates creators do apart from publishing articles on this blog.
+
+[Contact](/contact) section is to talk to the maintainers of this blog if you have an idea in mind. You can also contact publishers about something on the page not working properly for a fix.
+
+Pages is a dropdown with:
+ - [Authors](/authors) has a list of all the authors and contributors of this website.
+
+ - [Categories](/categories) has all the published article and post categories. Clicking on a category tag shows all the articles on that category.
+
+ - [Tags](/tags) also has all the published article and post tags. Clicking on a tag shows all the articles with the tag.
+
+ Categories and tags help the reader filter and find only related articles. An example a articles can fall under Crypto category but have different tags e.g Binance, OKX.
+
+ - [Privacy Policy](/privacy-policy) is a quick outline of guidelines that will protect you our user and also our authors and contributors.
+
+The social icons at the end of every article are used when you want to share our article with someone else or a group of people.
+
+The social icons in the footer section are icons that take you to social platforms of our website. Follow our page for educative purposes, Oh and for fun! 😆

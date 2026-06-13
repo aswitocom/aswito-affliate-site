@@ -22,3 +22,9 @@ package-lock.json
 
 # ignore .astro directory
 .astro
+
+# vscode
+.vscode/
+
+# ignore elements page guide
+src/content/pages/elements.mdx
