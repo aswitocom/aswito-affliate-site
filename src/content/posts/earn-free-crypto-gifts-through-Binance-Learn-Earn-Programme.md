@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "How to Make Money Online in Kenya for Free in 2026"
 meta_title: "How to Earn Money Online for Free in 2026: Complete User Guide"
@@ -30,4 +29,3 @@ Before participating in any Learn & Earn campaign, make sure you have completed 
 If you do not know how to complete KYC or experience any difficulties during the process, reach out through our official channels for assistance.
 
 If you have any questions, you can join our official [WhatsApp Community](https://chat.whatsapp.com/EAxPeCW5JKkBaG6zYcmSrB).
-```

@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "Aswito Affiliates & Referrals Guides",
-    "base_url": "https://aswitoaffliates.netlify.app",
+    "base_url": "https://aswitoaffiliates.netlify.app",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/aswito-favicon.svg",
@@ -28,7 +28,7 @@
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Copyright © 2026 [Aswito Affliates](https://aswitoaffliates.netlify.app/)"
+    "copyright": "Copyright © 2026 [Aswito Affliates](https://aswitoaffiliates.netlify.app/)"
   },
 
   "contactinfo": {
