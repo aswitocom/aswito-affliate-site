@@ -11,6 +11,11 @@
       "link": "https://x.com/"
     },
     {
+      "name": "Pinterest",
+      "icon": "FaPinterest",
+      "link": "https://www.pinterest.com/juliusoukon"
+    },
+    {
       "name": "instagram",
       "icon": "FaInstagram",
       "link": "https://www.instagram.com/"
